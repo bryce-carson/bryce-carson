@@ -21,7 +21,7 @@ I don't have anything interesting to share here. What I use is fairly stock, how
 - [Spacemacs](https://www.spacemacs.org)
 - R Studio
 - Pycharm (which is also *very* nice for working with R)
-- [SLiM](https://www.github.com/messerlab/slim) (which I package for Linux using Copr)
+- [SLiM](https://www.github.com/messerlab/slim) (which [I package for Linux using Copr](https://copr.fedorainfracloud.org/coprs/bacarson/SLiM-Selection_on_Linked_Mutations/))
 
 #### Miscellaneous
 

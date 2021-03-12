@@ -18,10 +18,13 @@ I don't have anything interesting to share here. What I use is fairly stock, how
 
 #### IDEs and Writing Environments
 
-- [Spacemacs](https://www.spacemacs.org)
+- [Spacemacs](https://www.spacemacs.org); no, [I'm not kidding](https://github.com/vsbuffalo/dotfiles/blob/dbd493ebc2d174894799dbddb7e356ae22eb85fd/.zshrc#L80-L83).
 - R Studio
 - Pycharm (which is also *very* nice for working with R)
 - [SLiM](https://www.github.com/messerlab/slim) (which [I package for Linux using Copr](https://copr.fedorainfracloud.org/coprs/bacarson/SLiM-Selection_on_Linked_Mutations/))
+
+##### Me: using Spacemacs
+<img alt="A drawing of an alien using Emacs; the alien has many more digits than humans have." src=http://www.gnu.org/software/emacs/its-cover.png width=200px height=300px>
 
 #### Miscellaneous
 

@@ -6,13 +6,13 @@ I'm an undergraduate in Canada, studying biology. I'm researching maladaptation 
 
 I script in [R](https://developer.r-project.org/www.gnu.org/R.html) and [BASH ](https://www.gnu.org/software/bash/).
 
-I began programming when I learned [Blitz Basic](https://en.wikipedia.org/wiki/Blitz_BASIC) as a youngling. I learned a tiny amount of C++ in secondary school, but I didn't continue. I'm much more comfortable with interpreted languages, but I am learning Python3 and will be picking up the object-oriented aspects of it so I can write GTK applications for the [GNOME](https://www.gnome.org/) environment.
+I began programming when I learned [Blitz Basic](https://en.wikipedia.org/wiki/Blitz_BASIC) as a youngling. I learned a tiny amount of C++ in secondary school, but I didn't continue. I'm much more comfortable with interpreted languages. 
 
-# My Run Commands (rc and dot files)
+I plan to learn Python 3, along with the object-oriented aspects of it so I can write GTK applications for the [GNOME](https://www.gnome.org/) environment.
 
-I'm a Linux-geek, and I use Fedora daily on my desktop; I do, however, have a MacBook (I might even dual-boot, to enjoy [GNOME](https://www.gnome.org/) in 4k).
+# Run My 'Run Commands' (rc and dot files)
 
-I don't have anything interesting to share here. What I use is fairly stock, however, I do have some aliases for emacsclient set, but I don't remember where I got them; I didn't write it.
+- Nothing to see here for now
 
 # Software I Like and Use
 
@@ -23,8 +23,8 @@ I don't have anything interesting to share here. What I use is fairly stock, how
 - Pycharm (which is also *very* nice for working with R)
 - [SLiM](https://www.github.com/messerlab/slim) (which [I package for Linux using Copr](https://copr.fedorainfracloud.org/coprs/bacarson/SLiM-Selection_on_Linked_Mutations/))
 
-##### Me: using Spacemacs
-<img alt="A drawing of an alien using Emacs; the alien has many more digits than humans have." src=http://www.gnu.org/software/emacs/its-cover.png width=200px height=300px>
+<p align="center"><h5>I'm an alien from Planet Emacs</h5></p>
+<img alt="A drawing of an alien using Emacs; the alien has many more digits than humans have." src=http://www.gnu.org/software/emacs/its-cover.png width=200px height=300px align="center">
 
 #### Miscellaneous
 

@@ -6,7 +6,9 @@ I'm an undergraduate in Canada, studying biology. I'm researching maladaptation 
 
 I script in [R](https://developer.r-project.org/www.gnu.org/R.html) and [BASH ](https://www.gnu.org/software/bash/).
 
-I began programming when I learned [Blitz Basic](https://en.wikipedia.org/wiki/Blitz_BASIC) as a youngling. I learned a tiny amount of C++ in secondary school, but I didn't continue. I'm much more comfortable with interpreted languages. 
+I began programming when I learned [Blitz Basic](https://en.wikipedia.org/wiki/Blitz_BASIC) as a young teen.
+
+I learned a tiny amount of C++ in secondary school, but I didn't continue. I'm much more comfortable with interpreted languages. 
 
 I plan to learn Python 3, along with the object-oriented aspects of it so I can write GTK applications for the [GNOME](https://www.gnome.org/) environment.
 

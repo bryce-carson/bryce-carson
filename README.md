@@ -14,11 +14,14 @@ I plan to learn Python 3, along with the object-oriented aspects of it so I can 
 
 # Run My 'Run Commands' (rc and dot files)
 
-- Nothing to see here for now
+Pardon the Unicode. – (en dash) is used for hyphenation outside of .kbd keywords, e.g. S–Emacs for "shifted Emacs" layer definition, while S- is a prefix–ing keyword for KMonad buttons.
+![carbon(1)](https://user-images.githubusercontent.com/51974245/147405432-8a322597-de34-4b74-9889-e1d4c77a67a1.png)
 
 # Software I Like and Use
 
 #### IDEs and Writing Environments
+
+- [KMonad](https://github.com/kmonad/kmonad); software-defined QMK-like keyboard configuration.
 
 - [Spacemacs](https://www.spacemacs.org); no, [I'm not kidding](https://github.com/vsbuffalo/dotfiles/blob/dbd493ebc2d174894799dbddb7e356ae22eb85fd/.zshrc#L80-L83).
 - R Studio
